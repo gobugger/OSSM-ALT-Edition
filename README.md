@@ -58,4 +58,15 @@ Image of the PCB the OSSM ALT was designed for. It uses a CH224Q for 28V over us
 
 ## Licensing:
 
-As open source as possible. Actual license has to be decided in cooperation with OSSM. 
+This project is **Open Source Hardware**.
+
+All hardware design files (including PCB schematics, layouts, and 3D mechanical design files) are licensed under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0)**.
+
+You are free to:
+- Use, study, modify, and manufacture this design
+- Use it for **commercial purposes**
+
+Under the following conditions:
+- **Attribution** must be given to the original author(s)
+- **All modified versions and derivatives must be released under the same license**
+- **Complete corresponding source files must be made available**
