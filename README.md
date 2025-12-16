@@ -22,7 +22,7 @@ Alternative community version for the well known [OSSM](https://github.com/Kinky
 
 A comprehensive BOM with descriptions and links can be found [here](Assembly-Info/BOM-OSSM-ALT.csv). However, the parts below are everything you need for building this complete version:
 
-| Part           | Description                                              | Costs |
+| **Part**           | **Description**                                             | **Costs** |
 | -------------- | -------------------------------------------------------- | ----- |
 | 57AIM30        | Motor                                                    | €110  |
 | MGN15H Rail    | Rail 40cm                                                | €22   |
@@ -56,11 +56,13 @@ SOON (after extensive testing)
 
 Image of the PCB the OSSM ALT was designed for. It uses a CH224Q for 28V over usb-c with PD3.2. The board uses a ESP32-C6 for its 'brains' and also incorporates the RS485 controlelr on-board. This means that everything that is necessary for running the OSSM of a usb-c powerbank/walladapter is already on this board. An extra usb-c connector is added for easier debugging and stable power is ensured by panasonic hybrid polymer capacitors. There is also a WS2812 Status LED although that is currently not used by the RUST firmware. The PCB was designed in Kicad 9 and is optimized for easy / cheap assembly by several well-known fabs.
 
+My vision for this PCB is that groups of people will self-source this PCB. From 5+ pieces this makes sense, so as long as you can find 5 people you should be able to buy this at an affordable price. 
+
 ## Supported Power(banks)
 
 Below you can find a list of supported/tested wall adapters and powerbanks for the above-mentioned PCB. Please do let know if you have tested other powerbanks/adapters.  
 
-| Name | Type | Max Supported Voltage / Power | Confirmed to work | Remarks |
+| **Name** | **Type** | **Max Supported Voltage / Power** | **Confirmed to work** | **Remarks** |
 |------|------|-------------------------------|------------------|---------|
 | [Ugreen 200W Powerbank](https://eu.ugreen.com/products/ugreen-nexode-power-bank-200w-25000mah) | Powerbank | 28V / 5A (140 W) | Yes | None |
 | [Anker 140W Wall Adapter](https://www.anker.com/products/a2697-anker-charger-140w-4-port?variant=44320558055574) | Wall Adapter | 28V / 5A (140 W) | Yes | None |
