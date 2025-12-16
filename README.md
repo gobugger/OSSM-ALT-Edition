@@ -20,7 +20,7 @@ Alternative community version for the well known [OSSM](https://github.com/Kinky
   
 ## BOM:
 
-A comprehensive BOM with descriptions and links has been uploaded as a CSV in this repository. However, the parts below are everything you need for building this complete version:
+A comprehensive BOM with descriptions and links can be found [here](Assembly Info/BOM OSSM ALT.csv). However, the parts below are everything you need for building this complete version:
 
 | Part           | Description                                              | Costs |
 | -------------- | -------------------------------------------------------- | ----- |
@@ -60,12 +60,12 @@ Image of the PCB the OSSM ALT was designed for. It uses a CH224Q for 28V over us
 
 Below you can find a list of supported/tested wall adapters and powerbanks for the above-mentioned PCB. Please do let know if you have tested other powerbanks/adapters.  
 
-| Name                                                                                                                                                                                                      | Type         | Max Supported Voltage / Power | Confirmed to work | Remarks                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [Ugreen 200W Powerbank]([https://eu.ugreen.com/products/ugreen-nexode-power-bank-200w-25000mah](https://eu.ugreen.com/products/ugreen-nexode-power-bank-200w-25000mah))                                   | Powerbank    | 28V / 5A (140Watt)            | Yes               | None                                                                                                                |
-| [Anker 140W wall adapter]([https://www.anker.com/products/a2697-anker-charger-140w-4-port?variant=44320558055574](https://www.anker.com/products/a2697-anker-charger-140w-4-port?variant=44320558055574)) | Wall Adapter | 28V / 5A (140Watt)            | Yes               | None                                                                                                                |
-| Xiaomi Mi 50W Powerbank                                                                                                                                                                                   | Powerbank    | 20V / 2A (40Watt)             | Yes               | Not recommended, because of low power                                                                               |
-| [Framework 240W Wall Adapter]([https://frame.work/nl/en/products/power-adapter-240w?v=FRAKMX000F](https://frame.work/nl/en/products/power-adapter-240w?v=FRAKMX000F))                                     | Wall Adapter | 28V / 5A (140Watt)            | No\*              | Needs more testing. Currently it will work at 20V / 5A, but I2C negotiation for 28V is not working as of right now. |
+| Name | Type | Max Supported Voltage / Power | Confirmed to work | Remarks |
+|------|------|-------------------------------|------------------|---------|
+| [Ugreen 200W Powerbank](https://eu.ugreen.com/products/ugreen-nexode-power-bank-200w-25000mah) | Powerbank | 28V / 5A (140 W) | Yes | None |
+| [Anker 140W Wall Adapter](https://www.anker.com/products/a2697-anker-charger-140w-4-port?variant=44320558055574) | Wall Adapter | 28V / 5A (140 W) | Yes | None |
+| Xiaomi Mi 50W Powerbank | Powerbank | 20V / 2A (40 W) | Yes | Not recommended due to low power |
+| [Framework 240W Wall Adapter](https://frame.work/nl/en/products/power-adapter-240w?v=FRAKMX000F) | Wall Adapter | 28V / 5A (140 W) | No\* | Needs more testing. Currently works at 20V / 5A, but I²C negotiation for 28V is not working yet. |
 
 <sub> The motor makes use of >3A which means that the PCB needs a usb-c cable with e-marker chip to be able to safely handle the current (the PD chip on the PCB checks this). If you use a regular usb-c cable you will suffer significant performance loss. You could also solder the e-marker simulator jumper on the back of the PCB which removes the check and theoretically allows you to use any cable,but remember that this can result in unsafe situations.</sub>
 
