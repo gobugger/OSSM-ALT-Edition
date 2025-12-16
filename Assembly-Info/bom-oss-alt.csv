@@ -1,5 +1,5 @@
 ﻿Assembly Category,Item No.,Part Name,Description,Quantity,Unit,Supplier Link,Unit Price,Total Price,Remarks
-Belt Mechanics,B-0,MGN-15H Rail,Tested with 400mm Length,1,pcs,,,,The better the quality, the smoother it will be. Legitimate Hiwin is preferred, but Aliexpress alternatives will probably work ass well. Usable length is approximately rail length - 150mm
+Belt Mechanics,B-0,MGN-15H Rail,"Tested with 400mm Length",1,pcs,,,, "The better the quality, the smoother it will be. Legitimate Hiwin is preferred, but Aliexpress alternatives will probably work as well. Usable length is approximately rail length - 150mm"
 Belt Mechanics,B-1,625-RS Bearings,Belt Bearings,6,pcs,https://www.amazon.nl/dp/B071RXC7FV?, €8.99 , €8.99 ,10 Pack
 Belt Mechanics,B-2,Precision Dowel Pin Kit,Dowel Pins for Bearings Kit,1,pcs,https://www.amazon.nl/dp/B0DR7R87KQ?th=1,€12.99,€12.99,This pack contains all the pins needed for the complete OSSM ALT version inclduding new Pit Clamp
 Belt Mechanics,B-2B,M5*30 Dowel Pin (2 pins),M5*30 dowel 5 pack,1,pcs,https://eu.store.bambulab.com/nl/products/d5-stainless-steel-dowel-pin?id=48706172092764,€1.45,€1.45,This is sufficient If you are only making the belt mechanics withouth redesigned pitclamp. You do not need the dowel Pin kit in this case
@@ -9,7 +9,7 @@ Belt Mechanics,B-5,M5 Bolt Kit,M5 bolt kit for complete OSSM ALT,1,pcs,https://w
 Belt Mechanics,B-5B,M5*30 Head Cap Bolt,Front mount bolts,2,pcs,,,,Only needed if you don't buy the M5 bolt kit
 Belt Mechanics,B-5C,M5*20 Head Cap Bolt,Front mount bolts,1,pcs,,,,Only needed if you don't buy the M5 bolt kit
 Belt Mechanics,B-6,M3 Bolt Kit,M3 bolt kit for complete OSSM ALT,1,pcs,https://www.amazon.nl/dp/B0B3MGZ7T2,€8.88,€8.88,This kit contains all the M3 bolts that are needed for the complete OSSM Alt Edition
-Motor / PCB Housing,C-0,57AIM30 motor,OSSM Motor,1pcs,,,€ 100 ,,Around 100 euro's including shipping / taxes to Europe
+Motor / PCB Housing,C-0,57AIM30 motor,OSSM Motor,1pcs,,,€100,,"Around 100 euro's including shipping / taxes to Europe"
 Motor / PCB Housing,C-1,M3 Bolt Kit,M3 bolt kit for complete OSSM ALT,1,pcs,https://www.amazon.nl/dp/B0B3MGZ7T2,€8.88,€8.88,This kit contains all the M3 bolts that are needed for the complete OSSM Alt Edition
 Belt Mechanics,B-6B,M3*12 Head Cap Bolt,Rail bolts,4,pcs,,,,Only needed if you don't buy the M3 bolt kit
 Motor / PCB Housing,C-1B,M3*40 bolt,Housing bolts,2,pcs,,,,Only needed if you don't buy the M3 bolt kit
@@ -27,4 +27,4 @@ Redesigned Pitclamp,D-2,M5*20 Head Cap bolt,Bolts to mount to 3030 extrusion,2,p
 Redesigned Pitclamp,D-2,3030 extrusion M5 fastening nuts,M5 nuts for 3030 extrusion,2,pcs,,,,Just pick what you have / what you can get. There are many variant, but as long as it's m5 and fits 3030 it will work.
 Belt Clamp,E-1,M3 nuts,M3 nut,1,pcs,,,,
 Belt Clamp,E-2,M3*16  head cap bolt,Optional for front mount,1,pcs,,,,Optional to make sure it stays on, but it is not necessary since everything should be tightened together by the blet
-Other,F-0,3D print filament,500g should be more than sufficient. ,,,,,,Pitclamp: 100 grams  /  Belt Tensioning and toy mount: 63 grams / Belt Mechanics: 117 gram / Main Mechanics: 162 grams, Total: 442 gram
+Other,F-0,3D print filament,"500g should be more than sufficient.",,,,,,"Pitclamp: 100 grams / Belt Tensioning and toy mount: 63 grams / Belt Mechanics: 117 gram / Main Mechanics: 162 grams. Total: 442 gram"
