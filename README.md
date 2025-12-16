@@ -20,7 +20,7 @@ Alternative community version for the well known [OSSM](https://github.com/Kinky
   
 ## BOM:
 
-A comprehensive BOM with descriptions and links can be found [here](Assembly Info/BOM OSSM ALT.csv). However, the parts below are everything you need for building this complete version:
+A comprehensive BOM with descriptions and links can be found [here](Assembly-Info/BOM-OSSM-ALT.csv). However, the parts below are everything you need for building this complete version:
 
 | Part           | Description                                              | Costs |
 | -------------- | -------------------------------------------------------- | ----- |
