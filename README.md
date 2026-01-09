@@ -4,18 +4,19 @@ Alternative community version for the well known [OSSM](https://github.com/Kinky
 
 ![MGN15H version with new clamp](/Images/cover.jpg)
 
-<sub>**Notice**: This version was developed without any involvement of the original OSSM / Research and Desire members. However, none of this would have been possible without their prior work which is greatly appreciated.</sub>
+<sub>**Notice**: This version was developed without any involvement of the original OSSM / Research and Desire members. However, none of this would have been possible without their prior work which is greatly appreciated. Especially the work of [ArmpitMFG](https://github.com/armpitMFG) has been a great inspiration. </sub>
 
 ## Key Changes:
 
 - Complete redesign around a custom 28V 140Watt USB-C PCB
+- Designed to be easily sourced in Europe
 - Made for [OSSM Rust](https://github.com/orange-gem/ossm-rs)
 - Works with MGN15H rails for heavy duty versions
 - MGN12H version available for rebuilds / lighter versions
-- The PCB / Motor mount is also compatible with the stock OSSM mechanics
 - Supports up to 15MM belts for the MGN15H version and up to 12mm for the MGN12H version. 
 - Optimized for assembly in Europe (BOM with very common parts that can easily be sourced)
-- Compatible with Pitclamp Mini, but a different version optimized for this design is included (as shown on the picures). 
+- Compatible with ArmpitMFG [Pitclamp Mini](https://github.com/armpitMFG/PitClamp-Mini),
+- An alternative Pitclamp version optimized for this design / sourcing in Europe is provided. 
 - Very efficient usable travel (rail length - 150mm)
   
 ## BOM:
@@ -85,3 +86,12 @@ Under the following conditions:
 - **Attribution** must be given to the original author(s)
 - **All modified versions and derivatives must be released under the same license**
 - **Complete corresponding source files must be made available**
+
+## Attribution:
+
+Special thanks to the work of the following persons/groups for inspiring and contributing to this design.
+
+- Front/End effectors heavily based on designs by [armpitMFG](https://github.com/armpitMFG)
+- Pitclamp Mini design by [armpitMFG](https://github.com/armpitMFG/PitClamp-Mini)
+
+
