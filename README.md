@@ -15,7 +15,7 @@ Alternative community version for the well known [OSSM](https://github.com/Kinky
 - MGN12H version available for rebuilds / lighter versions
 - Supports up to 15MM belts for the MGN15H version and up to 12mm for the MGN12H version. 
 - Optimized for assembly in Europe (BOM with very common parts that can easily be sourced)
-- Compatible with ArmpitMFG [Pitclamp Mini](https://github.com/armpitMFG/PitClamp-Mini),
+- Compatible with [Pitclamp Mini](https://github.com/armpitMFG/PitClamp-Mini),
 - An alternative Pitclamp version optimized for this design / sourcing in Europe is provided. 
 - Very efficient usable travel (rail length - 150mm)
   
