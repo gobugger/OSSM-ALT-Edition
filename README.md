@@ -197,6 +197,8 @@ If you've built an OSSM ALT and want to support continued development:
 - 📸 **Share your build** with photos and feedback on Discord
 - 📖 **Contribute documentation** and improvements
 
+![teaser](/Images/teaser.jpg)
+
 ---
 
 
