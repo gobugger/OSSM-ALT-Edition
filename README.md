@@ -162,19 +162,15 @@ This design is focused around PD, so it only makes sense to provide some options
 
 ### Tested & Confirmed
 
-| Device | Type | Rating | Status | Notes |
-|--------|------|--------|--------|-------|
-| [Apple 140W USB-C Adapter](https://www.apple.com/nl/shop/product/mw2m3zm/a/usb%E2%80%91c-lichtnetadapter-van-140-w) | Wall Adapter | 28V / 5A (140W) | ✅ Recommended | Excellent reliability, ~€60 (will likely not work with other pcb's besides the OSSM ALT) |
-| [Ugreen 200W Powerbank](https://eu.ugreen.com/products/ugreen-nexode-power-bank-200w-25000mah) | Powerbank | 28V / 5A (140W) | ✅ Confirmed | Great portable option that negotiates with almost any chip. |
-| [Anker 140W Wall Adapter](https://www.anker.com/products/a2697-anker-charger-140w-4-port) | Wall Adapter | 28V / 5A (140W) | ✅ Confirmed | Works well, but it will turn off due to heating protection after several minutes of 140watt usage. 100Watts is fine so for the gold motor there are no problems. 
-
-### Limited Testing
-
-| Device | Type | Rating | Status | Notes |
-|--------|------|--------|--------|-------|
-| [Ugreen Nexode 200W](https://nl.ugreen.com/products/ugreen-nexode-200w-4-port-gan-fast-charger) | Wall Adapter | 28V / 5A (140W) | ⚠️ 20V Only | Negotiates 20V (not 28V), 28V via I²C untested |
-| Xiaomi Mi 50W | Powerbank | 20V / 2A (40W) | ⚠️ Low Power | Not recommended. Works, but low power.  |
-| [Framework 240W](https://frame.work/nl/en/products/power-adapter-240w) | Wall Adapter | 28V / 5A (140W) | 🔬 Testing | Currently 20V/5A, I²C negotiation pending |
+| Device | Type | Rating | Status | Recommended | Rating | Notes |
+|--------|------|--------|--------|-------|------|-----|
+| [Apple 140W USB-C Adapter](https://www.apple.com/nl/shop/product/mw2m3zm/a/usb%E2%80%91c-lichtnetadapter-van-140-w) | Wall Adapter | 28V / 5A (140W) | 🔬 Tested | ✅ Recommended| ★★★★★ (5)| Excellent reliability and quality, Only ~€60 (will likely not work with other pcb's besides the OSSM ALT since it requires inrush current protection) |
+| [Ugreen 200W Powerbank](https://eu.ugreen.com/products/ugreen-nexode-power-bank-200w-25000mah) | Powerbank | 28V / 5A (140W) | 🔬 Tested| ✅ Recommended|★★★★★ (5)| Great portable option that negotiates with almost any chip. Best power bank I have tested.|
+| [Anker 140W Wall Adapter](https://www.anker.com/products/a2697-anker-charger-140w-4-port) | Wall Adapter | 28V / 5A (140W) | 🔬 Tested| ✅ Recommended|★★★★☆ (4)| Works well, but you will definitely feel it get hot at prolonged 140W and after 20 minutes or so it will lower the power to cool down. 100Watts continuous is fine so for the gold motor there are no problems. I have yet to see a supported motor that pulls 140W continuous. 
+| [Sitecom 140W Wall adapter](https://www.action.com/nl-nl/p/3221194/sitecom-usb-wandoplader/) | Wall Adapter | 28V / 5A (140W)|🔬 Tested | ✅ Recommended| ★★★★☆ (4) | Cheapest adapter of the list (~€20). Did not do any extensive testing yet, but it negotiates 28V and 20V fine. I was also able to load test it at 140W and you can feel it get warmer similar to the Anker one, but it seems to hold up fine. At it's price point it is probably a very good deal (even comes with a cable), but we don't know if it's easy to source since right now it's sold at 'action' which normally changes its inventory quite quickly. 
+| [Ugreen 100W Wall Adapter](https://www.amazon.nl/dp/B091TV6LWN) | Wall Adapter | 20V / 5A (100W) | 🔬 Tested | ⚠️ Lower Power|★★★☆☆ (3) |Works okay, but do notice that this one does not support 28V. If you have the OSSM-Alt pcb at 28V and still try to power it, it will work but negotiates down to 20V. |
+| [Framework 180W Adapter](https://frame.work/nl/en/products/16-power-adapter?v=FRANCR000F) | Wall Adapter | 36V / 5A (180W) | 🔬 Tested | ⚠️ Lower Power | ★★★☆☆ (3) | Quality wise I believe this is a good adapter, but it has a lot of difficulty negotiating with several common cheap PD chips. So it won't negotiate above 20V on the OSSM-ALT PCB and it also does not seem to support I2C with this chip either. Therefore, not really recommended unless you already have it and just power a motor at max 100W. 
+| Xiaomi Mi 50W | Powerbank | 20V / 2A (40W) | 🔬 Tested | ⚠️ Low Power | ★★☆☆☆ (2) | Not recommended. Negotiates well, but low power. Still for a very light weight OSSM it might. be fine.  |
 
 **Have you tested another power source?** Please share your results!
 
