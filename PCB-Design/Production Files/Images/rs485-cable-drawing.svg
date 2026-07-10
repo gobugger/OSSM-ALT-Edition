@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1450.42 488.32">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #999;
+        font-size: 17px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        isolation: isolate;
+      }
+
+      .st0, .st2, .st3, .st4, .st5, .st6, .st7 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .st8, .st9, .st10, .st11, .st12, .st13, .st14 {
+        fill: none;
+      }
+
+      .st8, .st10 {
+        stroke-width: 7px;
+      }
+
+      .st8, .st14 {
+        stroke: #c0392b;
+      }
+
+      .st15, .st5, .st7 {
+        fill: #111;
+      }
+
+      .st9, .st13, .st16 {
+        stroke: #333;
+      }
+
+      .st9, .st16 {
+        stroke-width: 2.5px;
+      }
+
+      .st10 {
+        stroke: #111;
+      }
+
+      .st17, .st2, .st4 {
+        fill: #c0392b;
+      }
+
+      .st11 {
+        stroke: #27ae60;
+      }
+
+      .st11, .st12 {
+        stroke-width: 6px;
+      }
+
+      .st18 {
+        fill: #27ae60;
+      }
+
+      .st2 {
+        font-size: 19.88px;
+      }
+
+      .st19 {
+        fill: #c4c4c4;
+      }
+
+      .st12 {
+        stroke: #2b3fd4;
+      }
+
+      .st3 {
+        font-size: 22px;
+      }
+
+      .st3, .st6 {
+        fill: #666;
+      }
+
+      .st4 {
+        font-size: 23.49px;
+      }
+
+      .st13 {
+        stroke-width: 1.2px;
+      }
+
+      .st5 {
+        font-size: 24px;
+      }
+
+      .st6 {
+        font-size: 18px;
+      }
+
+      .st20 {
+        fill: #2b3fd4;
+      }
+
+      .st7 {
+        font-size: 30px;
+      }
+
+      .st16 {
+        fill: #fff;
+      }
+
+      .st14 {
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="st14" x1="369.25" y1="51.79" x2="369.25" y2="124.07"/>
+    <line class="st14" x1="1193.25" y1="51.79" x2="1193.25" y2="155.7"/>
+    <line class="st14" x1="380.09" y1="58.12" x2="1182.41" y2="58.12"/>
+  </g>
+  <g>
+    <polygon class="st17" points="369.25 58.12 381.9 52.7 381.9 63.54 369.25 58.12"/>
+    <polygon class="st17" points="1193.25 58.12 1180.6 52.7 1180.6 63.54 1193.25 58.12"/>
+    <g class="st1">
+      <text class="st4" transform="translate(719.32 20.17)"><tspan x="0" y="0">70 ± 10 mm</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st2" transform="translate(731.24 45.47)"><tspan x="0" y="0">T ≈ 6 twists</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect class="st9" x="23.25" y="153.01" width="150" height="190" rx="8" ry="8"/>
+    <rect class="st9" x="1.25" y="218.01" width="22" height="60" rx="4" ry="4"/>
+  </g>
+  <g>
+    <rect class="st15" x="55.25" y="171.01" width="16" height="16"/>
+    <rect class="st19" x="125.25" y="171.01" width="16" height="16"/>
+    <rect class="st19" x="55.25" y="206.01" width="16" height="16"/>
+    <rect class="st18" x="125.25" y="206.01" width="16" height="16"/>
+    <rect class="st19" x="55.25" y="241.01" width="16" height="16"/>
+    <rect class="st20" x="125.25" y="241.01" width="16" height="16"/>
+    <rect class="st19" x="55.25" y="276.01" width="16" height="16"/>
+    <rect class="st19" x="125.25" y="276.01" width="16" height="16"/>
+    <rect class="st17" x="55.25" y="311.01" width="16" height="16"/>
+    <rect class="st19" x="125.25" y="311.01" width="16" height="16"/>
+  </g>
+  <g>
+    <line class="st13" x1="48.25" y1="138.01" x2="61.25" y2="173.01"/>
+    <line class="st13" x1="148.25" y1="138.01" x2="135.25" y2="173.01"/>
+    <line class="st13" x1="48.25" y1="358.01" x2="61.25" y2="325.01"/>
+    <line class="st13" x1="150.25" y1="358.01" x2="135.25" y2="325.01"/>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st5" transform="translate(34.58 131.01)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st5" transform="translate(148.58 131.01)"><tspan x="0" y="0">6</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st5" transform="translate(34.58 381.01)"><tspan x="0" y="0">5</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st5" transform="translate(145.9 381.01)"><tspan x="0" y="0">10</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st3" transform="translate(24.88 423.01)"><tspan x="0" y="0">P1 mating face</tspan></text>
+    </g>
+  </g>
+  <g class="st1">
+    <text class="st7" transform="translate(287.8 415.01)"><tspan x="0" y="0">P1</tspan></text>
+  </g>
+  <g class="st1">
+    <text class="st7" transform="translate(1218.8027 407.0162)"><tspan x="0" y="0">P2</tspan></text>
+  </g>
+  <path class="st8" d="M369.25,174.01l824,28"/>
+  <path class="st10" d="M369.25,344.01l824-2"/>
+  <path class="st12" d="M369.25,222.01c100,0,130,34,185,34"/>
+  <path class="st11" d="M369.25,266.01c100,0,130-10,185-10"/>
+  <path class="st12" d="M554.25,256.01c14-20,28-20,42,0s28,20,42,0,28-20,42,0,28,20,42,0,28-20,42,0,28,20,42,0,28-20,42,0,28,20,42,0,28-20,42,0,28,20,42,0,28-20,42,0,28,20,42,0"/>
+  <path class="st11" d="M554.25,256.01c14,20,28,20,42,0s28-20,42,0,28,20,42,0,28-20,42,0,28,20,42,0,28-20,42,0,28,20,42,0,28-20,42,0,28,20,42,0,28-20,42,0,28,20,42,0,28-20,42,0"/>
+  <path class="st11" d="M1058.25,256.01c51,0,81-22,135-22"/>
+  <path class="st12" d="M1058.25,256.01c51,0,81,23,135,23"/>
+  <g>
+    <g class="st1">
+      <text class="st6" transform="translate(379.25 162.01)"><tspan x="0" y="0">red</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st6" transform="translate(379.25 212.01)"><tspan x="0" y="0">blue</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st6" transform="translate(379.25 296.01)"><tspan x="0" y="0">green</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st6" transform="translate(379.25 332.01)"><tspan x="0" y="0">black</tspan></text>
+    </g>
+  </g>
+  <text class="st3" transform="translate(1303.6736 415.0112)"><tspan x="0" y="0">P2 mating face</tspan></text>
+  <rect class="st9" x="1301" y="237.01" width="168" height="62" rx="6" ry="6" transform="translate(1653.0103 -1116.9897) rotate(90)"/>
+  <rect class="st17" x="1377" y="202.01" width="16" height="16" transform="translate(1595.0103 -1174.9897) rotate(90)"/>
+  <rect class="st18" x="1377" y="240.01" width="16" height="16" transform="translate(1633.0103 -1136.9897) rotate(90)"/>
+  <rect class="st20" x="1377" y="278.01" width="16" height="16" transform="translate(1671.0103 -1098.9897) rotate(90)"/>
+  <rect class="st15" x="1377" y="316.01" width="16" height="16" transform="translate(1709.0103 -1060.9897) rotate(90)"/>
+  <text class="st5" transform="translate(1377 162.0103) rotate(90)"><tspan x="0" y="0">1</tspan></text>
+  <text class="st5" transform="translate(1377 360.0103) rotate(90)"><tspan x="0" y="0">4</tspan></text>
+  <g class="st1">
+    <text class="st0" transform="translate(315.25 480.14)"><tspan x="0" y="0">Recreated reference drawing — OSSM ALT Edition RS485 cable (P1: PHB2.0-2-5 , P2: JST PH-4)</tspan></text>
+  </g>
+  <rect class="st15" x="1343.25" y="238.79" width="10.75" height="10.75"/>
+  <rect class="st15" x="1343.25" y="283.26" width="10.75" height="10.75"/>
+  <rect class="st16" x="263.47" y="155.51" width="105.78" height="208.72" rx="22.57" ry="22.57"/>
+  <rect class="st16" x="1193.25" y="155.77" width="105.78" height="208.72" rx="22.57" ry="22.57"/>
+</svg>
