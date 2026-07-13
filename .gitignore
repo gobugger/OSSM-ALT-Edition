@@ -1,1 +1,8 @@
 **/.DS_Store
+
+# KiCad working files
+*.lck
+*.kicad_prl
+**/.history/
+**/*-backups/
+**/fp-info-cache
